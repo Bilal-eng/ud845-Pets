@@ -101,7 +101,7 @@
             android:layout_height="wrap_content"
             android:layout_width="0dp"
             android:layout_weight="2"
-            android:paddingLeft="4dp">
+            android:paddingLeft="5dp">
 
             <!-- Weight field -->
             <EditText
